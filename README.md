@@ -1,2 +1,2 @@
-# 0-GitHub
-0 проект на GitHub
+#  Практическое изучение 
+## Модуль Collections. Класс Counter и defaultdict
