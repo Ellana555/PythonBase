@@ -1,4 +1,4 @@
 # Практическое изучение
 # Библиотека NumPy
-## Модуль Collections. Класс Counter и defaultdict
+## Модуль Collections. Классы
  - Collections_Counter_Defaultdict.ipynb
