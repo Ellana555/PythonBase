@@ -3,6 +3,6 @@
 ## Модуль Collections. Классы
  - Collections_Counter_Defaultdict.ipynb
  - Collections_Deque_OrderedDict.ipynb   
-## Модуль NumPy.
+## Модуль NumPy. (По записям сформирован) - не сохранен
 
 Файл Speki создан для формирования таблиц с нескольких PDF файлов
